@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Metal",
+      "link": "",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Hallowed Be Thy Name",
+          "url": "https://www.youtube.com/watch?v=BBtLMLQfiRo"
+        },
+        {
+          "titulo": "Enter Sandman",
+          "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+        },
+        {
+          "titulo": "Nothing Else Metters",
+          "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
+        },
+        {
+          "titulo": "Crazy Train",
+          "url": "https://www.youtube.com/watch?v=RMR5zf1J1Hs"
+        },
+        {
+          "titulo": "Chop Suey",
+          "url": "https://www.youtube.com/watch?v=CSvFpBOe8eY"
+        },
+        {
+          "titulo": "The Trooper",
+          "url": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q"
+        },
+        {
+          "titulo": "Symphony of Destruction",
+          "url": "https://www.youtube.com/watch?v=K5jvUXij7nU"
+        }        
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Evidências",
+          "url": "https://www.youtube.com/watch?v=ePjtnSPFWK8"
+        },
+        {
+          "titulo": "Vidro Fumê",
+          "url": "https://www.youtube.com/watch?v=cPYjxAbfxNU"
+        },
+        {
+          "titulo": "Boate Azul",
+          "url": "https://www.youtube.com/watch?v=77LfH30UJ_g"
+        },
+        {
+          "titulo": "Ainda ontem chorei de saudade",
+          "url": "https://www.youtube.com/watch?v=wSLqcrmdTOE"
+        }, 
+        {
+          "titulo": "Estrada da vida",
+          "url": "https://www.youtube.com/watch?v=rxX1bmHsh-Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Pagode",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Cheia de manias",
+          "url": "https://www.youtube.com/watch?v=uJz0F36TGoc"
+        },
+        {
+          "titulo": "Camisa 10",
+          "url": "https://www.youtube.com/watch?v=oZgYN4qfpl4"
+        },
+        {
+          "titulo": "Brincadeira tem hora",
+          "url": "https://www.youtube.com/watch?v=gd9geIr944A"
+        },
+        {
+          "titulo": "Insegurança",
+          "url": "https://www.youtube.com/watch?v=WQyKuEsLpRY"
+        }
+      ]
+    },
+    {
+      "titulo": "Pop",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Smooth Criminal",
+          "url": "https://www.youtube.com/watch?v=q8w1d01Y2vY"
+        },
+        {
+          "titulo": "Blue (Da Ba Dee)",
+          "url": "https://www.youtube.com/watch?v=zA52uNzx7Y4"
+        },
+        {
+          "titulo": "Careless Whisper",
+          "url": "https://www.youtube.com/watch?v=izGwDsrQ1eQ"
+        },
+        {
+          "titulo": "Beat It",
+          "url": "https://www.youtube.com/watch?v=oRdxUFDoQe0"
+        },
+        {
+          "titulo": "Run Away",
+          "url": "https://www.youtube.com/watch?v=pHXDMe6QV-U"
+        }
+      ]
+    },
+    {
+      "titulo": "Rap Nerd",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Rap do Homem de Ferro",
+          "url": "https://www.youtube.com/watch?v=LH1ZBlq3odE"
+        },
+        {
+          "titulo": "Rap do Bills",
+          "url": "https://www.youtube.com/watch?v=hgKLvxILrvQ"
+        },
+        {
+          "titulo": "Rap do L",
+          "url": "https://www.youtube.com/watch?v=fCtWj7X31jE"
+        },
+        {
+          "titulo": "Rap do Pennywise",
+          "url": "https://www.youtube.com/watch?v=2rEqESBREGw"
+        },
+        {
+          "titulo": "Rap do coringa",
+          "url": "https://www.youtube.com/watch?v=Te7ilj6lpRQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Rock",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Angel",
+          "url": "https://www.youtube.com/watch?v=CBTOGVb_cQg"
+        },
+        {
+          "titulo": "Hells Bells",
+          "url": "https://www.youtube.com/watch?v=3tOKYFR4Rzg"
+        },
+        {
+          "titulo": "I was made for lovin' you",
+          "url": "https://www.youtube.com/watch?v=ZhIsAZO5gl0"
+        },
+        {
+          "titulo": "Welcome to the jungle",
+          "url": "https://www.youtube.com/watch?v=o1tj2zJ2Wvg"
+        },
+        {
+          "titulo": "Black",
+          "url": "https://www.youtube.com/watch?v=IpwHB2U3J1s"
+        }
+      ]
+    }
+  ]
+}
