@@ -22,7 +22,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const url = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
-      : '';
+      : 'https://music-flix.herokuapp.com/categorias';
 
     fetch(url).then(async (response) => {
       const res = await response.json();
