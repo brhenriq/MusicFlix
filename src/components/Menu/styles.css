@@ -42,7 +42,7 @@ body {
 }
 
 .ButtonLink {
-  color: var(--primary);
+  color: var(--white);
   border: 1px solid var(--white);
   box-sizing: border-box;
   cursor: pointer;

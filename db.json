@@ -29,6 +29,11 @@
       "id": 6,
       "titulo": "Rock",
       "cor": "#6b5be2"
+    },
+    {
+      "titulo": "Sertanejo Uni",
+      "cor": "#980000",
+      "id": 7
     }
   ],
   "videos": [
@@ -101,8 +106,8 @@
     {
       "id": 12,
       "categoriaId": 2,
-          "titulo": "Cheia de manias",
-          "url": "https://www.youtube.com/watch?v=uJz0F36TGoc"
+      "titulo": "Cheia de manias",
+      "url": "https://www.youtube.com/watch?v=uJz0F36TGoc"
     },
     {
       "id": 13,
@@ -217,6 +222,18 @@
       "categoriaId": 6,
       "titulo": "Black",
       "url": "https://www.youtube.com/watch?v=IpwHB2U3J1s"
+    },
+    {
+      "titulo": "Fear of the Dark",
+      "url": "https://www.youtube.com/watch?v=epYKVcHrVr0",
+      "categoriaId": 1,
+      "id": 32
+    },
+    {
+      "categoriaId": 7,
+      "titulo": "Largado as Traças",
+      "url": "https://www.youtube.com/watch?v=WcTRQXtXJPs",
+      "id": 33
     }
   ]
 }
