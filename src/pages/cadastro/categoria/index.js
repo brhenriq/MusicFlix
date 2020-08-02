@@ -5,7 +5,7 @@ import Button from '../../../components/Button';
 import FormField from '../../../components/FormField';
 import useForm from '../../../hooks/useForm';
 import categoryRepository from '../../../repositories/categorias';
-
+import Loading from '../../../components/Loading';
 
 function CadastroCategoria() {
   const history = useHistory();
@@ -78,9 +78,7 @@ function CadastroCategoria() {
       </form>
 
       {categorias.length === 0 &&(
-        <div>
-          Loading...
-        </div>
+        <Loading/>
       )}
 
       <ul>

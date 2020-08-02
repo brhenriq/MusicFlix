@@ -3,7 +3,7 @@ import "./styles.css";
 
 function Loading(){
   return(
-    <ul>
+    <ul id="anima">
       <li>L</li>
       <li>O</li>
       <li>A</li>
