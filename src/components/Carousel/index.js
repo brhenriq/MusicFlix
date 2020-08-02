@@ -32,7 +32,7 @@ function Carousel({
           }
 
           return (
-            <SliderItem key={video.titulo}>
+            <SliderItem key={video.titulo} categoryColor={categoryColor}>
               <VideoCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
