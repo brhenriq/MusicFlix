@@ -1,0 +1,222 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Metal",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "titulo": "Sertanejo",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Pagode",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "Pop",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Rap Nerd",
+      "cor": "red"
+    },
+    {
+      "id": 6,
+      "titulo": "Rock",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Hallowed Be Thy Name",
+      "url": "https://www.youtube.com/watch?v=BBtLMLQfiRo"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Enter Sandman",
+      "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Nothing Else Metters",
+      "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Crazy Train",
+      "url": "https://www.youtube.com/watch?v=RMR5zf1J1Hs"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Chop Suey",
+      "url": "https://www.youtube.com/watch?v=CSvFpBOe8eY"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "The Trooper",
+      "url": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Symphony of Destruction",
+      "url": "https://www.youtube.com/watch?v=K5jvUXij7nU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Evidências",
+      "url": "https://www.youtube.com/watch?v=ePjtnSPFWK8"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Vidro Fumê",
+      "url": "https://www.youtube.com/watch?v=cPYjxAbfxNU"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Boate Azul",
+      "url": "https://www.youtube.com/watch?v=77LfH30UJ_g"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Ainda ontem chorei de saudade",
+      "url": "https://www.youtube.com/watch?v=wSLqcrmdTOE"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+          "titulo": "Cheia de manias",
+          "url": "https://www.youtube.com/watch?v=uJz0F36TGoc"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Cheia de manias",
+      "url": "https://www.youtube.com/watch?v=uJz0F36TGoc"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Camisa 10",
+      "url": "https://www.youtube.com/watch?v=oZgYN4qfpl4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Brincadeira tem hora",
+      "url": "https://www.youtube.com/watch?v=gd9geIr944A"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Insegurança",
+      "url": "https://www.youtube.com/watch?v=WQyKuEsLpRY"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Smooth Criminal",
+      "url": "https://www.youtube.com/watch?v=q8w1d01Y2vY"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Blue (Da Ba Dee)",
+      "url": "https://www.youtube.com/watch?v=zA52uNzx7Y4"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Careless Whisper",
+      "url": "https://www.youtube.com/watch?v=izGwDsrQ1eQ"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Beat It",
+      "url": "https://www.youtube.com/watch?v=oRdxUFDoQe0"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Run Away",
+      "url": "https://www.youtube.com/watch?v=pHXDMe6QV-U"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Rap do Homem de Ferro",
+      "url": "https://www.youtube.com/watch?v=LH1ZBlq3odE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Rap do Bills",
+      "url": "https://www.youtube.com/watch?v=hgKLvxILrvQ"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Rap do L",
+      "url": "https://www.youtube.com/watch?v=fCtWj7X31jE"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Rap do Pennywise",
+      "url": "https://www.youtube.com/watch?v=2rEqESBREGw"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Rap do coringa",
+      "url": "https://www.youtube.com/watch?v=Te7ilj6lpRQ"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Angel",
+      "url": "https://www.youtube.com/watch?v=CBTOGVb_cQg"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Hells Bells",
+      "url": "https://www.youtube.com/watch?v=3tOKYFR4Rzg"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "I was made for lovin' you",
+      "url": "https://www.youtube.com/watch?v=ZhIsAZO5gl0"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Welcome to the jungle",
+      "url": "https://www.youtube.com/watch?v=o1tj2zJ2Wvg"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Black",
+      "url": "https://www.youtube.com/watch?v=IpwHB2U3J1s"
+    }
+  ]
+}
