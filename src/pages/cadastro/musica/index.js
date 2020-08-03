@@ -6,6 +6,7 @@ import useForm from '../../../hooks/useForm';
 import FormField from '../../../components/FormField';
 import videosRepository from '../../../repositories/videos';
 import categoriasRepository from '../../../repositories/categorias';
+import './styles.css';
 
 function CadastroMusica(){
   const history = useHistory();
@@ -39,15 +40,23 @@ function CadastroMusica(){
           return categoria.titulo === values.categoria;
         });
 
-        videosRepository.create({
-          categoriaId: categoriaEscolhida.id,
-          titulo: values.titulo,
-          url: values.url
-        })
-          .then(() => {
-            history.push('/');
-          });
+        try {
+          videosRepository.create({
+            categoriaId: categoriaEscolhida.id,
+            titulo: values.titulo,
+            url: values.url
+          })
+            .then(() => {
+              history.push('/');
+            });
+        } catch (err){
+          if(!categoriaEscolhida) {
+            return alert("A categoria escolhida não existe");
+          }
 
+          return alert(err);
+        }
+        
       }}>
         <FormField
           label="Título do vídeo"
@@ -76,7 +85,7 @@ function CadastroMusica(){
           Cadastrar
         </Button>
       </form>
-      <Link to="/cadastro/categoria">
+      <Link to="/cadastro/categoria" id="Link">
         Cadastrar Categoria
       </Link>
     </TemplateBase>

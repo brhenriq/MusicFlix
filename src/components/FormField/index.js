@@ -90,6 +90,7 @@ function FormField({
           onChange={onChange}
           autoComplete={hasSuggestions ? 'off' : 'on'}
           list={`suggestionFor_${fieldId}`}
+          required
         />
         <Label.Text>
           {label}

@@ -5,6 +5,7 @@ import TamplateBase from '../../components/TemplateBase';
 import categoriasRepository from '../../repositories/categorias';
 import Loading from '../../components/Loading';
 
+
 function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
 

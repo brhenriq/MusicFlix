@@ -1,0 +1,12 @@
+form {
+  text-align: center;
+}
+
+#Link {
+  text-decoration: none;
+}
+
+#Link:hover{
+  transition: all 700ms;
+  color: var(--primary);
+}
